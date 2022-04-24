@@ -71,3 +71,23 @@
     margin-left: 0;
   }
 }
+
+.form-control {
+  transition: .25s border ease-in-out;
+  border-radius: 10px !important;
+  outline: none !important;
+  box-shadow: none !important;
+  background: white;
+  color: black;
+  border: 0;
+  border-bottom: 2px solid #444;
+  font-size: 20px;
+  width: 50px;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+.form-control:focus {
+  border-bottom-color: lightblue;
+}
