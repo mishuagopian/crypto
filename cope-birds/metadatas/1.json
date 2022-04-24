@@ -1,0 +1,36 @@
+{
+  "image": "99.png",
+  "name": "Space Sneks Demo #99",
+  "description": "My first demo using a small collection of Space Sneks components",
+  "external_url": "https://sneks.diamondhandshotel.com",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Capri"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Camo Coral"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stupid"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Trenchcoat"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Popcorn"
+    }
+  ]
+}

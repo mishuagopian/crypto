@@ -1,0 +1,8 @@
+{
+  "name": "CopeBirds",
+  "description": "CopeBirds description",
+  "image": "ipfs://QmZuot5Nhx4ePvvnb1DoGMBa1dF9bH4PLnkgHpboYeRTbj/0.png",
+  "external_link": "https://www.google.com",
+  "seller_fee_basis_points": 1000,
+  "fee_recipient": "0xAb60bDFf5AAb0dcD6Fd9833A6C08be2DECD36BE2"
+}

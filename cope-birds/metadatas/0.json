@@ -1,0 +1,36 @@
+{
+  "image": "98.png",
+  "name": "Space Sneks Demo #98",
+  "description": "My first demo using a small collection of Space Sneks components",
+  "external_url": "https://sneks.diamondhandshotel.com",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Champagne"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Damascus Steel"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Astronaut Helmet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Mage"
+    }
+  ]
+}
