@@ -22,7 +22,7 @@ Promise.all(promises).then( () => {
       ipfsArray,
       {
           headers: {
-              "X-API-KEY": 'REPLACE_ME',
+              "X-API-KEY": 'MORALIS_API_KEY',
               "Content-Type": "application/json",
               "accept": "application/json"
           }

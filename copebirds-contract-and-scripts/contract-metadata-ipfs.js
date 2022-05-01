@@ -12,7 +12,7 @@ axios.post("https://deep-index.moralis.io/api/v2/ipfs/uploadFolder",
     [contractMetadata],
     {
         headers: {
-            "X-API-KEY": 'REPLACE_ME',
+            "X-API-KEY": 'MORALIS_API_KEY',
             "Content-Type": "application/json",
             "accept": "application/json"
         }
